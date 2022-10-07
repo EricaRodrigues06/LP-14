@@ -1,0 +1,9 @@
+O valor 34.0 em centímetros corresponde ao valor 13.385827 em polegadas.
+
+O valor 15.0 
+em centímetros corresponde ao valor 5.905512 
+em polegadas.
+O valor 15.0 nem centímetros corresponde ao valor 5.905512 
+em polegadas.
+O valor 15.0 em centímetros 
+corresponde ao valor 5.905512 em polegadas.
